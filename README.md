@@ -4,12 +4,16 @@
 
 ## 🕴️ About Me
 - 🎓 Master's Degree in Information Systems @University of Maryland
-- 🎞️ Movie fanatic. I review and rate films on my letterboxd. 
-- 📈 In my free time I enjoy investing in stocks and other securities.
+- 🎞️ Movie fanatic. I review and rate films on my [letterboxd](https://letterboxd.com/dannyrivas/). 
+- 📈 In my free time I enjoy researching and investing in stocks and other securities.
 
 ## 🛠️ Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/numpy-043343?style=flat&logo=numpy&logoColor=white)](https://www.numpy.org/)
+[![Pandas](https://img.shields.io/badge/pandas-160458?style=flat&logo=pandas&logoColor=white)](https://www.pandas.pydata.org/)
+
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://r-project.org/)
+[![Tidyverse](https://img.shields.io/badge/tidyverse-000000?style=flat&logo=tidyverse&logoColor=white)](https://r-project.org/)
 
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://shields.io/)
 [![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)](https://shields.io/)
