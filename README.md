@@ -5,7 +5,7 @@
 ## 🕴️ About Me
 - 🎓 Master's Degree in Information Systems @University of Maryland
 - 🎞️ Movie fanatic. I review and rate films on my [letterboxd](https://letterboxd.com/dannyrivas/). 
-- 📈 In my free time I enjoy researching and investing in stocks and other securities.
+- 📈 In my free time I enjoy researching and investing stocks and other securities.
 
 ## 🛠️ Languages and Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -23,8 +23,6 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-4aa4de?style=flat&logo=rstudio&logoColor=white)
 [![Tableau](https://img.shields.io/badge/Tableau-1C4481?style=flat&logo=tableau&logoColor=white)](https://tableau.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-
-
 
 ## 🤝 Let's Connect
 
