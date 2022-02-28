@@ -27,10 +27,11 @@
 
 
 ## 🤝 Let's Connect
-[![Gmail](https://img.shields.io/badge/Gmail-bb001b?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=dannyrivaes@gmail.com)
-[![Letterboxd](https://img.shields.io/badge/Letterboxd-ff8000?style=flat&logo=letterboxd&logoColor=white)](https://letterboxd.com/dannyrivas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyerivas/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dannyrivaes)
+
+[![Gmail](https://img.shields.io/badge/dannyrivaes@gmail.com-bb001b?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=dannyrivaes@gmail.com)
+[![Letterboxd](https://img.shields.io/badge/@dannyrivas-ff8000?style=flat&logo=letterboxd&logoColor=white)](https://letterboxd.com/dannyrivas/)
+[![LinkedIn](https://img.shields.io/badge/Danny_Rivas-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannyerivas/)
+[![Twitter](https://img.shields.io/badge/@dannyrivaes-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/dannyrivaes)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny-rivas&show_icons=true&locale=en" alt="danny-rivas" /></p>
