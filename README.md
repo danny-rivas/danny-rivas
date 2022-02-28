@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3> &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <h3 align="left">Connect with me:</h3>
