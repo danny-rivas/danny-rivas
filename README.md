@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=header&text=Hi%20👋,%20I'm%20Danny&animation=fadeIn&fontSize=25&fontAlign=15&fontAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World!&fontSize=40&animation=fadeIn&fontAlignY=32&desc=I'm%20Danny%20👋&descAlignY=47&descAlign=50)
+
 ### Welcome to my GitHub page!
 
 ## 🕴️ About Me
